@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Users\Student\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2157964169.index
+\jspexample1\src\main\java
+C:\Users\Student\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2476117656.index
+\redirecting\src\main\java
+C:\Users\Student\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2657514931.index
+\Directiveexample\src\main\java
+C:\Users\Student\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\732252330.index
+\Errorjsp\src\main\java

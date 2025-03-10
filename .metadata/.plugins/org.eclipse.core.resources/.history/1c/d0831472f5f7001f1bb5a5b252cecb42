@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="wdth=device-width, initial-scale=1.0">
+<title>Factorial</title>
+</head>
+<body>
+<form action="facto.jsp">
+Enter Number <input type="number" name="n1">
+<button>Submit</button>
+</form>
+</body>
+</html>

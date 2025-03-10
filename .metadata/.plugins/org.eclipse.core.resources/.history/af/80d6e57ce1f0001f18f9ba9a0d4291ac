@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>To Call servlet please enter your name & click button </h3>
+<form method="POST" action="Httpsservletget">
+	<label for="tname">NAME</label>
+	<input type ="text" id="tName" name ="tName">
+	<input type="sumbit" value="submit">
+</form>
+	
+</body>
+</html>

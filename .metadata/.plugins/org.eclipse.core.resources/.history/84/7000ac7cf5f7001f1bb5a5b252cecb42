@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>JSP Factorial</title>
+</head>
+<body>
+<center><h1> The Required factorial value is:</h1></center>
+<h2>
+<%
+int n1 = 0,i,fact=1;
+String ns = request.getParameter("n1");
+n1=Integer.parseInt("ns");
+if(n1>1){
+		fact=1;
+		for(i=1;i<n1;i++)
+			fact=fact*i;
+}
+out.println("Fact=" +fact);
+%>
+</h2>
+</body>
+</html>
